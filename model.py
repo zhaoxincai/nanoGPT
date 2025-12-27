@@ -1,4 +1,3 @@
-# part 1: 导入相关的 package
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
